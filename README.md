@@ -20,3 +20,5 @@
  $opts->has('b'); 
  isset($opts->b);
 ```
+
+[Мой сайт](http://shasoft.com)

@@ -1,6 +1,7 @@
 {
     "name": "shasoft/opts",
     "description": "Shasoft options",
+	"homepage": "http://shasoft.com",
     "keywords": ["options", "parameters", "params"],	
     "require": {
     },
