@@ -5,7 +5,7 @@
 
 ```php
  // Создать
- $opts = new \shasoft\Opts;
+ $opts = new \shasoft\Opts(['x'=>666]);
  // Установить значение атрибута a
  $opts->set('a',1);
  // Установить значение атрибута b
